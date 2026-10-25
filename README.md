@@ -54,10 +54,14 @@ Screenshots and sample datasets published in this repository should contain only
 
 Portfolio documentation and sanitized examples are being prepared.
 
-## Dashboard Preview
 
-![Regional Performance](screenshots/regional-performance.png)
+## 📸 Dashboard Screenshots
 
-![Pending Calls Analysis](screenshots/pending-calls-ageing.png)
+### Regional Performance
+![Regional Performance](screenshots/regional-performance.jpeg)
 
-![Daily Performance](screenshots/daily-performance.png)
+### Pending Calls & Ageing
+![Pending Calls & Ageing](screenshots/pending-calls-ageing.jpeg)
+
+### Daily Service Performance
+![Daily Service Performance](screenshots/daily-performance.jpeg)
