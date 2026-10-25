@@ -53,3 +53,11 @@ Screenshots and sample datasets published in this repository should contain only
 ## Project Status
 
 Portfolio documentation and sanitized examples are being prepared.
+
+## Dashboard Preview
+
+![Regional Performance](screenshots/regional-performance.png)
+
+![Pending Calls Analysis](screenshots/pending-calls-ageing.png)
+
+![Daily Performance](screenshots/daily-performance.png)
