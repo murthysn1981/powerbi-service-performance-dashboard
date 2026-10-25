@@ -1,9 +1,9 @@
 # Power BI Service Performance Dashboard
 
 ## 📌 Project Overview
-This project focuses on analyzing service operations using Power BI to monitor service performance, pending calls, turnaround time (TAT), backlog ageing, and regional performance.
+This project analyzes service operations using Power BI to monitor service performance, pending calls, turnaround time (TAT), backlog ageing, and regional performance.
 
-The objective is to convert service data into actionable insights that support better decision-making, improve SLA compliance, and identify areas requiring operational attention.
+The objective is to transform service data into actionable insights that support decision-making, improve SLA compliance, and identify areas requiring operational attention.
 
 ## 🎯 Business Objectives
 - Monitor service call closure performance and TAT.
@@ -31,10 +31,13 @@ The objective is to convert service data into actionable insights that support b
 ## 📸 Dashboard Screenshots
 
 ### Regional Performance
-![Regional Performance](screenshots/regional-performance.png)
+![Regional Performance](screenshots/regional-performance.jpeg)
 
 ### Pending Calls & Ageing
-![Pending Calls and Ageing](screenshots/pending-calls-ageing.png)
+![Pending Calls & Ageing](screenshots/pending-calls-ageing.jpeg)
+
+### Daily Service Performance
+![Daily Service Performance](screenshots/daily-performance.jpeg)
 
 ## 💡 Expected Business Value
 - Improved visibility into service operations.
@@ -45,20 +48,8 @@ The objective is to convert service data into actionable insights that support b
 ## 🔒 Data Privacy
 Any publicly shared dataset or screenshot should use synthetic or anonymized data. Confidential customer details, service-order numbers, serial numbers, employee information, and company-sensitive information must not be published without authorization.
 
-## 📸 Dashboard Screenshots
-
-### Regional Performance
-![Regional Performance](screenshots/regional-performance.jpeg)
-
-### Pending Calls & Ageing
-![Pending Calls & Ageing](screenshots/pending-calls-ageing.jpeg)
-
-### Daily Service Performance
-![Daily Service Performance](screenshots/daily-performance.jpeg)
-
 ## 👤 Author
 **Murthy S N**
 
 [LinkedIn](https://www.linkedin.com/in/murthysn)
-
 
